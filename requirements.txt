@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+Pandas
+jupyter
+expsolve=0.0.3
