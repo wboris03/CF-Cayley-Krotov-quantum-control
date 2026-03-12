@@ -25,4 +25,3 @@ Create a Python environment and install dependencies:
 
 ```bash
 pip install -r requirements.txt
-Main packages: numpy, scipy, matplotlib, jupyter, expsolve=0.0.3
